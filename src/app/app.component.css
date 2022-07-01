@@ -1,0 +1,37 @@
+
+.nav-class
+{
+  background-color: #fcf9f9;
+  color: black;
+  border: 1px;
+}
+
+.home:hover
+{
+  color: rebeccapurple;
+  cursor: pointer;
+}
+
+.hi-class
+{
+  padding-left: 160px;
+  padding-top: 400px;
+}
+.mohd-class
+{
+color: #f8f7f4;
+  padding-left: 10px;
+  font-size: 80px;
+}
+
+.web-devel-class
+{
+  padding-left: 80px;
+  font-size: 50px;
+
+}
+
+#exp
+{
+  display: none;
+}
